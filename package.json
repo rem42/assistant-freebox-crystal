@@ -1,10 +1,9 @@
-
 {
   "name": "assistant-freebox-crystal",
   "version": "1.0.0",
-  "description": "Exemple de la structure d'un plugin",
+  "description": "Plugin Freebox crystal pour un Assistant via le package assistant-plugins",
   "author": "rem42",
   "main":"freebox-crystal.js",
-  "repository":"https://github.com/Aymkdn/assistant-template/",
+  "repository":"https://github.com/rem42/assistant-freebox-crystal/",
   "license": "MIT"
 }
